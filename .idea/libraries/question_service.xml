@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="question-service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/question-service.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
